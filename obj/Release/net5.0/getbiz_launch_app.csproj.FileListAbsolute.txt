@@ -1,0 +1,223 @@
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\appsettings.Development.json
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\appsettings.json
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.exe
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.deps.json
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.runtimeconfig.json
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\ref\getbiz_launch_app.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.pdb
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Castle.Core.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Castle.Windsor.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Humanizer.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\MySqlConnector.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.AssemblyInfo.cs
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\staticwebassets\getbiz_launch_app.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\staticwebassets\getbiz_launch_app.StaticWebAssets.xml
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\scopedcss\bundle\getbiz_launch_app.styles.css
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.CopyComplete
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\ref\getbiz_launch_app.dll
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.pdb
+C:\Users\DELL\Desktop\launch_main_backup_30_12_2021\lokesh_sir_launch_backup_30_12_2021\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.genruntimeconfig.cache
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\appsettings.Development.json
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\appsettings.json
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.exe
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.deps.json
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.runtimeconfig.json
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\ref\getbiz_launch_app.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.pdb
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Castle.Core.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Castle.Windsor.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Humanizer.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\MySqlConnector.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.AssemblyInfo.cs
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\staticwebassets\getbiz_launch_app.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\staticwebassets\getbiz_launch_app.StaticWebAssets.xml
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\scopedcss\bundle\getbiz_launch_app.styles.css
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.CopyComplete
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\ref\getbiz_launch_app.dll
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.pdb
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.genruntimeconfig.cache
+C:\Users\DELL\Desktop\launch_app_final_source\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.AssemblyReference.cache
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\appsettings.Development.json
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\appsettings.json
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.exe
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.deps.json
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.runtimeconfig.json
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.runtimeconfig.dev.json
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\ref\getbiz_launch_app.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.pdb
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Castle.Core.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Castle.Windsor.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Humanizer.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\MySqlConnector.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\System.Drawing.Common.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.AssemblyReference.cache
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.AssemblyInfoInputs.cache
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.AssemblyInfo.cs
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.CoreCompileInputs.cache
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\staticwebassets\getbiz_launch_app.StaticWebAssets.Manifest.cache
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\staticwebassets\getbiz_launch_app.StaticWebAssets.xml
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\scopedcss\bundle\getbiz_launch_app.styles.css
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.RazorTargetAssemblyInfo.cache
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.CopyComplete
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\ref\getbiz_launch_app.dll
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.pdb
+D:\.Net Projects\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.genruntimeconfig.cache
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\appsettings.Development.json
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\appsettings.json
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.exe
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.deps.json
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.runtimeconfig.json
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.runtimeconfig.dev.json
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\ref\getbiz_launch_app.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\getbiz_launch_app.pdb
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Castle.Core.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Castle.Windsor.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Humanizer.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\MySqlConnector.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\System.Drawing.Common.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.AssemblyReference.cache
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.AssemblyInfoInputs.cache
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.AssemblyInfo.cs
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.CoreCompileInputs.cache
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.MvcApplicationPartsAssemblyInfo.cs
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.MvcApplicationPartsAssemblyInfo.cache
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\staticwebassets\getbiz_launch_app.StaticWebAssets.Manifest.cache
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\staticwebassets\getbiz_launch_app.StaticWebAssets.xml
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\scopedcss\bundle\getbiz_launch_app.styles.css
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.RazorTargetAssemblyInfo.cache
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.csproj.CopyComplete
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\ref\getbiz_launch_app.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.pdb
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\obj\Release\net5.0\getbiz_launch_app.genruntimeconfig.cache
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\BouncyCastle.Crypto.dll
+D:\Lokesh\getbiz_launch_app\getbiz_launch_app\getbiz_launch_app\bin\Release\net5.0\WebPush.dll
